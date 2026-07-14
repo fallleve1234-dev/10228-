@@ -2,7 +2,6 @@
 <html lang="ko">
     <head>
         <meta charset="UTF-8">
-        <title>실습 페이지</title>
     </head>
     <body>
         <h1>탁도훈의 페이지 소개</h1>
